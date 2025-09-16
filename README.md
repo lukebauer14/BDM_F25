@@ -1,3 +1,2 @@
 # OPIM 5641
-This is my file to explore different topics in OPIM 5641 with Dr. Dave and students. 
-Is this talking to eachother. 
+This is my file to explore different topics in OPIM 5641 with Dr. Dave and students.  
